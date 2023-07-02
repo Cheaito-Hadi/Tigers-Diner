@@ -1,0 +1,167 @@
+.coverbox {
+    background-color: #000;
+    color: white;
+    height: 30px;
+    font-size: 30px;
+    position: fixed;
+    font-family: sans-serif;
+    width: 100%;
+    top: 0;
+    opacity: 0.7;
+}
+
+.coverbox:hover {
+    opacity: 1;
+}
+
+.bgcolor {
+    background-color: #242424;
+    margin: 0;
+}
+
+.tigers-header {
+    background-color: #e02735;
+    height: 110px;
+    text-align: center;
+    position: fixed;
+    margin-top: 30px;
+    width: 100%;
+    top: 0;
+
+}
+
+.summary-style {
+    color: white;
+    background-color: #323739;
+    padding: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.tigers-img {
+    width: 140px;
+    height: 110px;
+    align-content: center;
+}
+
+.menu-word {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: -10px;
+    margin-top: 10px;
+}
+
+.vat {
+    color: #808080;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+.find {
+    text-align: center;
+}
+
+.find-button {
+    background-color: #242424;
+    color: white;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 99px;
+    border-color: white;
+    margin-bottom: 15px;
+    width: 20%;
+
+}
+
+.outer-table {
+    width: 100%;
+}
+
+.outer-row {
+    width: 60%;
+}
+
+.outer-empty-data {
+    width: 20%;
+}
+
+.outer-data {
+    width: 40%;
+}
+
+.inside-table {
+
+    width: 100%;
+}
+
+.category {
+    background-color: #323739;
+    color: white;
+}
+
+.category-img {
+    width: 100%;
+    height: 250px;
+}
+
+.description-1 {
+    font-family: sans-serif;
+    color: white;
+    width: 50%;
+    padding-right: 50px;
+    vertical-align: text-top;
+
+}
+
+.description-2 {
+    font-family: sans-serif;
+    color: white;
+    width: 50%;
+    vertical-align: text-top;
+    padding-top: 30px
+}
+
+.second-description {
+    color: grey
+}
+
+.inner-row {
+    width: 100%;
+}
+
+.footer-title {
+    font-family: sans-serif;
+    color: grey;
+    text-align: center;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.footer-links{
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-link:hover{
+    color: #960048;
+    text-decoration: underline;
+}
+
+.drinks-table th,
+.drinks-table td{
+    padding: 5px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+
